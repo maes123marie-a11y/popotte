@@ -268,3 +268,4 @@ python3 test/e2e.py               # 42 vérifications de bout en bout (G, H, J, 
 | Mouvement de stock | id, weekId, entryId, stockId, ingredientId, dim, qtyBase |
 
 Les déductions de stock sont rattachées à la semaine et au repas. Les repas déjà cuisinés n'augmentent donc pas les besoins de leur propre semaine, et une double déduction est impossible.
+test
