@@ -1,0 +1,14 @@
+{
+  "name": "popote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Popote — repas, recettes et courses (web app installable iPhone, hors ligne)",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.6"
+  }
+}
