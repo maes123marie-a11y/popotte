@@ -1,0 +1,8 @@
+recette;portions;preparation_min;cuisson_min;categorie;ingredient;quantite;unite;facultatif;rayon;etapes
+Stoemp aux poireaux;4;20;25;Végétarien;Pommes de terre;1;kg;;Fruits et légumes;Éplucher et cuire les pommes de terre 20 min | Faire fondre les poireaux au beurre | Écraser le tout et assaisonner
+Stoemp aux poireaux;4;20;25;Végétarien;Poireaux;2;piece;;Fruits et légumes;
+Stoemp aux poireaux;4;20;25;Végétarien;Beurre;40;g;;Produits laitiers;
+Stoemp aux poireaux;4;20;25;Végétarien;Muscade;1;pincee;oui;Épicerie sèche;
+Croque-monsieur;2;10;8;Viande;Pain de mie;4;tranche;;Boulangerie;Garnir les tranches de jambon et fromage | Dorer à la poêle ou au grill
+Croque-monsieur;2;10;8;Viande;Jambon cuit;2;tranche;;Viande et poisson;
+Croque-monsieur;2;10;8;Viande;Fromage en tranches;2;tranche;;Produits laitiers;

@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "name": "Moules-frites maison",
+      "servings": 2,
+      "prepMin": 20,
+      "cookMin": 15,
+      "category": "Poisson",
+      "description": "Version simple, au céleri et à l'oignon.",
+      "steps": ["Nettoyer les moules", "Faire suer céleri et oignon", "Ajouter les moules, couvrir 6 à 8 minutes"],
+      "notes": "Jeter les moules restées fermées.",
+      "ingredients": [
+        { "name": "Moules", "qty": 2, "unit": "kg", "category": "Viande et poisson" },
+        { "name": "Céleri", "qty": 1, "unit": "botte", "category": "Fruits et légumes" },
+        { "name": "Oignon jaune", "qty": 1, "unit": "piece", "category": "Fruits et légumes" },
+        { "name": "Pommes de terre", "qty": 800, "unit": "g", "category": "Fruits et légumes" }
+      ]
+    }
+  ]
+}
